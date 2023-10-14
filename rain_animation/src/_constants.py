@@ -1,0 +1,2 @@
+SEED = 1
+N_DROPS = 50
